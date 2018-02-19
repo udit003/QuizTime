@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz Time</string>
+    <string-array name="rule_array">
+        <item>
+            \u2022 For each question there will be 4 options out of which only 1 is correct.
+        </item>
+        <item>
+            \u2022 You have 10 seconds to answer each question.
+        </item>
+        <item>
+            \u2022 Maximum score for each question is 100 , scores are given depending upon how quickly you answer.
+        </item>
+        <item>
+            \u2022 If a wrong answer is given or No option is selected , no score is given.
+        </item>
+    </string-array>
+</resources>
